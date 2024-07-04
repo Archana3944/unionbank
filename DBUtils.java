@@ -1,6 +1,9 @@
+this line updating in master branch
+
+
 Hello this file contains the some db related code..
 
-I am updating in dev branch..
+I am updating in dev branch. .
 
 
 
