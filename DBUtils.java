@@ -1,10 +1,11 @@
+
 this line updating in master branch
 
 
 Hello this file contains the some db related code..
 
-I am updating in dev branch. .
+Hello updated in dev branch..
 
 
 
-Hello file is updated ..
+Hello file is updated .i.
