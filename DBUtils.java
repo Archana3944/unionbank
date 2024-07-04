@@ -1,7 +1,6 @@
-Hello this file contains the some db related code..
-
-I am updating in dev branch..
-
+Hello this file contains the some db related code.
+Hello updated in dev branch..
 
 
-Hello file is updated ..
+
+Hello file is updated .i.
